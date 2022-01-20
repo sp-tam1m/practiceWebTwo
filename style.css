@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+/* header css  */
+
+.color{
+    background-color: #FFFBF0;
+}
+
+.navbar-nav a {
+    font-size: 20px;
+    padding: 5px 40px !important;
+}
+
+.slider-content p {
+    font-size: 23px;
+    width: 532px;
+}
+
+.slider-content a{
+    font-size: 25px;
+}
+
+.card-img{
+    background-color: #f1f1f1;
+    padding: 30px;
+    border-radius: 20px;
+}
